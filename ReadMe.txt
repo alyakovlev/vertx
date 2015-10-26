@@ -1,0 +1,1 @@
+This is short presentation about Vert.x 2.0 supplemented bu examples.
